@@ -1,9 +1,10 @@
 import './App.css'
+import { Mensaje } from './components/componente.jsx'
 
 function App() {
   return (
     <>
-      <h1>Probando Git y Github</h1>
+      <Mensaje />
     </>
   )
 }
