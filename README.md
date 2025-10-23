@@ -10,3 +10,5 @@ a pesar de haber hecho algunos proyectos independientes, jamas tuve la oportunid
 Cosas que pude aprender en acá:
 * Configurar Git
 * Conectar Git con Github
+* Actualizar versiones de repositorios
+* Convenciones en los Commit
